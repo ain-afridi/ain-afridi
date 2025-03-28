@@ -1,5 +1,5 @@
 # 💫 About Me:
-Spearheading the development of dynamic and engaging user interfaces using React.js, Next.js <br>and TypeScript leveraging 4+ years of expertise to optimize performance and enhance user <br>experiences. <br>Seeking a senior React.js developer role to contribute extensive front-end proficiency, crafting <br>elegant and scalable solutions while collaborating with cross-functional teams to deliver cutting-edge web applications.
+Spearheading the development of dynamic and engaging user interfaces using React.js, Next.js <br>and TypeScript leveraging 5+ years of expertise to optimize performance and enhance user <br>experiences. <br>Seeking a senior React.js developer role to contribute extensive front-end proficiency, crafting <br>elegant and scalable solutions while collaborating with cross-functional teams to deliver cutting-edge web applications.
 
 
 ## 🌐 Socials:
